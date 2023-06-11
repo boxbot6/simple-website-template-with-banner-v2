@@ -1,8 +1,8 @@
 # A simple free HTML website template for hosting on GitHub and elsewhere:
 
-![Simple website template with image banner](images/simple-website-template-with-image-banner-v1-sample.png)
+![simple-website-template-with-banner-v2-sample.png](images/simple-website-template-with-banner-v2-sample.png)
 
-#### [Click this link to visit and try out the actual template being created from this repository and hosted on github-pages (https://boxbot6.github.io/simple-website-template-with-image-banner-v1/).](https://boxbot6.github.io/simple-website-template-with-image-banner-v1/)
+#### [Click this link to visit and try out the actual template being created from this repository and hosted on github-pages (https://boxbot6.github.io/simple-website-template-with-banner-v2).](https://boxbot6.github.io/simple-website-template-with-banner-v2)
 
 <br>
 
@@ -99,7 +99,7 @@ You may have to wait a day or so for your GitHub repository to show up in google
 
 <br>
 
-[Click this link to view the website being created from this repository by github-pages (https://boxbot6.github.io/simple-website-template-with-image-banner-v1/).](https://boxbot6.github.io/simple-website-template-with-image-banner-v1/)
+[Click this link to view the website being created from this repository by github-pages (https://boxbot6.github.io/simple-website-template-with-banner-v2).](https://boxbot6.github.io/simple-website-template-with-banner-v2)
 
 
 <br>
