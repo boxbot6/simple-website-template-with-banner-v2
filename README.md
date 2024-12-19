@@ -1,6 +1,6 @@
 # A simple free HTML website template for hosting on GitHub and elsewhere:
 
-(v2 with banner image):
+v2 (with banner image)
 
 ![simple-website-template-with-banner-v2-sample.png](images/simple-website-template-with-banner-v2-sample.png)
 
