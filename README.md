@@ -56,7 +56,7 @@ Example of a simple README.md file to replace this one:
 
 <br>
 
-* [Click this link to view the website being created from this repository by github-pages.](https://put-your-github-name-here.github.io/put-your-website-name-here/)
+* [Click this link to visit the website being created from this repository by github-pages.](https://put-your-github-name-here.github.io/put-your-website-name-here/)
 
 <br>
 
@@ -74,7 +74,7 @@ Code for the above example: (replace the text in your repository's README.md wit
 
       <br>
 
-      * [Click this link to view the website being created from this repository by github-pages.](https://put-your-github-name-here.github.io/put-your-website-name-here/)
+      * [Click this link to visit the website being created from this repository by github-pages.](https://put-your-github-name-here.github.io/put-your-website-name-here/)
 
       <br>
 
@@ -100,7 +100,12 @@ You may have to wait a few days for your GitHub repository to show up in google 
 
 <br>
 
-[Click this link to view the website being created from this repository by github-pages (https://boxbot6.github.io/simple-website-template-with-banner-v2).](https://boxbot6.github.io/simple-website-template-with-banner-v2)
+[Click this link to visit the website being created from this repository by github-pages (https://boxbot6.github.io/simple-website-template-with-banner-v2).](https://boxbot6.github.io/simple-website-template-with-banner-v2)
 
+<br>
+
+---
+
+* [Click this link to see more templates.](https://boxbot6.github.io/simple-website-templates/)
 
 <br>
