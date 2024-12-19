@@ -4,7 +4,7 @@ v2 (with banner image)
 
 ![simple-website-template-with-banner-v2-sample.png](images/simple-website-template-with-banner-v2-sample.png)
 
-#### [Click this link to visit and try out the actual template being created from this repository and hosted on github-pages (https://boxbot6.github.io/simple-website-template-with-banner-v2).](https://boxbot6.github.io/simple-website-template-with-banner-v2)
+#### [Click this link to visit and try the actual template being created from this repository and hosted on github-pages (https://boxbot6.github.io/simple-website-template-with-banner-v2).](https://boxbot6.github.io/simple-website-template-with-banner-v2)
 
 <br>
 
