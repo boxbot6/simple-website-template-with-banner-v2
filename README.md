@@ -100,7 +100,9 @@ You may have to wait a few days for your GitHub repository to show up in google 
 
 <br>
 
-[Click this link to visit the website being created from this repository by github-pages (https://boxbot6.github.io/simple-website-template-with-banner-v2).](https://boxbot6.github.io/simple-website-template-with-banner-v2)
+Click the link below to visit the website being created from this repository by github-pages.
+
+[(https://boxbot6.github.io/simple-website-template-with-banner-v2)](https://boxbot6.github.io/simple-website-template-with-banner-v2)
 
 <br>
 
